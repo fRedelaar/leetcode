@@ -6,6 +6,6 @@ Discussions and code reviews are more than welcome. The goal is to solve every d
 
 | #        | Title           | Solution  | Difficulty | 
 | ------------- |:-------------:| -----:|-----:|
-| 9     | [Palindrome Number](https://leetcode.com/problems/palindrome-number/ "Leetcode.com")  | Python | easy        |
+| 9     | [Palindrome Number](https://leetcode.com/problems/palindrome-number/ "Leetcode.com")  | [Python Number](https://github.com/fRedelaar/leetcode/blob/main/python/9-PalindromeNumber.py)   | easy        |
 | 69     | [Sqrt(x)](https://leetcode.com/problems/sqrtx/ "Leetcode.com")  | Python | easy        |
 
