@@ -6,5 +6,5 @@ Discussions and code reviews are more than welcome. The goal is to solve every d
 
 | #        | Title           | Solution  | Difficulty | 
 | ------------- |:-------------:| -----:|-----:|
-| 69     | Sqrt(x) | Python | easy        |
+| 69     | [Sqrt(x)](https://leetcode.com/problems/sqrtx/ "Leetcode.com")  | Python | easy        |
 
