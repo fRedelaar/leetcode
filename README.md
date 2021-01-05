@@ -6,6 +6,7 @@ Discussions and code reviews are more than welcome. The goal is to solve every d
 
 | #        | Title           | Solution  | Difficulty | 
 | ------------- |:-------------:| -----:|-----:|
+| 7     | [Reverse Integer](https://leetcode.com/problems/reverse-integer/ "Leetcode.com")  | [Python](https://github.com/fRedelaar/leetcode/blob/main/python/7-reverse-Integer.py)   | easy        |
 | 9     | [Palindrome Number](https://leetcode.com/problems/palindrome-number/ "Leetcode.com")  | [Python](https://github.com/fRedelaar/leetcode/blob/main/python/9-PalindromeNumber.py)   | easy        |
 | 12     | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/ "Leetcode.com")  | [Python](https://github.com/fRedelaar/leetcode/blob/main/python/12-integer-to-roman.py)   | medium        |
 | 58     | [Length Of Last Word](https://leetcode.com/problems/length-of-last-word/submissions/ "Leetcode.com")  | [Python](https://github.com/fRedelaar/leetcode/blob/main/python/58-length-of-last-word.py)   | easy        |
