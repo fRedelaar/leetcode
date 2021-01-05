@@ -15,4 +15,5 @@ Discussions and code reviews are more than welcome. The goal is to solve every d
 |  268    | [Missing Number](https://leetcode.com/problems/missing-number/ "Leetcode.com")  | [Python](https://github.com/fRedelaar/leetcode/blob/main/python/268-missing-number.py)  | easy        |
 | 338    | [Ransom Note](https://leetcode.com/problem/ransom-note/ "Leetcode.com")  | [Python](https://github.com/fRedelaar/leetcode/blob/main/python/338-ransomnote.py)  | easy        |
 |  344    | [Reverse String](https://leetcode.com/problems//reverse-string/ "Leetcode.com")  | [Python](https://github.com/fRedelaar/leetcode/blob/main/python/344-reverseString.py)  | easy        |
+|  1431    | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/ "Leetcode.com")  | [Python](https://github.com/fRedelaar/leetcode/blob/main/python/1431-KidsWithCandies.py)  | easy        |
 
