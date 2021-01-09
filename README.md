@@ -15,6 +15,7 @@ Discussions and code reviews are more than welcome. The goal is to solve every d
 |  268    | [Missing Number](https://leetcode.com/problems/missing-number/ "Leetcode.com")  | [Python](https://github.com/fRedelaar/leetcode/blob/main/python/268-missing-number.py)  | easy        |
 | 338    | [Ransom Note](https://leetcode.com/problem/ransom-note/ "Leetcode.com")  | [Python](https://github.com/fRedelaar/leetcode/blob/main/python/338-ransomnote.py)  | easy        |
 |  344    | [Reverse String](https://leetcode.com/problems/reverse-string/ "Leetcode.com")  | [Python](https://github.com/fRedelaar/leetcode/blob/main/python/344-reverseString.py)  | easy        |
+|  389    | [Find the Difference](https://leetcode.com/problems/find-the-difference/ "Leetcode.com")  | [Python](https://github.com/fRedelaar/leetcode/blob/main/python/389-Find-the-Difference.py)  | easy        |
 |  500    | [Keyboard Row](https://leetcode.com/problems/keyboard-row/ "Leetcode.com")  | [Python](https://github.com/fRedelaar/leetcode/blob/main/python/500-keyboard-row.py)  | easy        |
 |  709    | [To Lower Case](https://leetcode.com/problems/to-lower-case/ "Leetcode.com")  | [Python](https://github.com/fRedelaar/leetcode/blob/main/python/709-to-Lower-Case.py)  | easy        |
 |  728    | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/submissions/ "Leetcode.com")  | [Python](https://github.com/fRedelaar/leetcode/blob/main/python/728-self-dividing-numbers.py)  | easy        |
