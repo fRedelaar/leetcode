@@ -13,6 +13,7 @@ Discussions and code reviews are more than welcome. The goal is to solve every d
 | 69     | [Sqrt(x)](https://leetcode.com/problems/sqrtx/ "Leetcode.com")  | [Python](https://github.com/fRedelaar/leetcode/blob/main/python/69-sqrt(x).py)  | easy        |
 |  231    | [Power Of Two](https://leetcode.com/problems/power-of-two/ "Leetcode.com")  | [Python](https://github.com/fRedelaar/leetcode/blob/main/python/231-power-of-two.py)  | easy        |
 |  268    | [Missing Number](https://leetcode.com/problems/missing-number/ "Leetcode.com")  | [Python](https://github.com/fRedelaar/leetcode/blob/main/python/268-missing-number.py)  | easy        |
+|  287    | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/ "Leetcode.com")  | [Python](https://github.com/fRedelaar/leetcode/blob/main/python/287-Find-the-Duplicate-Number.py)  | medium        |
 | 338    | [Ransom Note](https://leetcode.com/problem/ransom-note/ "Leetcode.com")  | [Python](https://github.com/fRedelaar/leetcode/blob/main/python/338-ransomnote.py)  | easy        |
 |  344    | [Reverse String](https://leetcode.com/problems/reverse-string/ "Leetcode.com")  | [Python](https://github.com/fRedelaar/leetcode/blob/main/python/344-reverseString.py)  | easy        |
 |  389    | [Find the Difference](https://leetcode.com/problems/find-the-difference/ "Leetcode.com")  | [Python](https://github.com/fRedelaar/leetcode/blob/main/python/389-Find-the-Difference.py)  | easy        |
