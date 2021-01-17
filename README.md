@@ -26,4 +26,5 @@ Discussions and code reviews are more than welcome. The goal is to solve every d
 |  1410    | [HTML Entity Parser](https://leetcode.com/problems/html-entity-parser/ "Leetcode.com")  | [Python](https://github.com/fRedelaar/leetcode/blob/main/python/1410-HTML-Entity-Parser.py)  | medium        |
 |  1431    | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/ "Leetcode.com")  | [Python](https://github.com/fRedelaar/leetcode/blob/main/python/1431-KidsWithCandies.py)  | easy        |
 |  1480    | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/ "Leetcode.com")  | [Python](https://github.com/fRedelaar/leetcode/blob/main/python/1480-running-sum-of-1D-array.py)  | easy        |
+|  1704    | [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/ "Leetcode.com")  | [Python](https://github.com/fRedelaar/leetcode/blob/main/python/1704-Determine-if-String-Halves-Are-Alike.py)  | easy        |
 
